@@ -1,0 +1,3 @@
+alias gits="git status"
+alias norm="norminette -R CheckForbiddenSourceHeader"
+alias gccW="gcc -Wall -Wextra -Werror"
